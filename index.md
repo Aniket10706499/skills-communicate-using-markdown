@@ -1,3 +1,8 @@
+
+- [x] aniket
+- [ ] shinde
+- [ ] jaising
+
 # Header Aniket 
 ## Header Aniket
 ### Header Aniket
@@ -9,4 +14,7 @@
 var a= "sa";
 ```
 
+
+
 ![My Image](https://octodex.github.com/images/yaktocat.png)
+
